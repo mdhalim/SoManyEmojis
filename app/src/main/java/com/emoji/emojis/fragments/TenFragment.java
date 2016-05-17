@@ -1,5 +1,8 @@
 package com.emoji.emojis.fragments;
 
+/**
+ * Created by mdhalim on 15/04/16.
+ */
 import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
